@@ -54,7 +54,7 @@ Function having two `Int` parameters with `Int` return type:
 ```kotlin
 //sampleStart
 fun sum(a: Int, b: Int): Int {
-    return a + b
+    return a + b加空格
 }
 //sampleEnd
 
